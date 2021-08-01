@@ -1,7 +1,6 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning Node, assembly X86 and Java.
-- 🔭 I’m currently working on my own os: BitOS. It will probably launch in dec 2022.
+# Hi there 👋
+I'm GrumpyPenguin.
+  I develop all sorts of things. For example Games.
 
 <!--
 **GrumpyPingu/GrumpyPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
