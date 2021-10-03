@@ -1,6 +1,10 @@
-# Hi there 👋
-I'm GrumpyPenguin.
-  I develop all sorts of things. For example Games.
+# GrumpyPingu
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrumpyPingu&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrumpyPingu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **GrumpyPingu/GrumpyPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
