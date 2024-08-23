@@ -12,7 +12,7 @@ I enjoy programming in Swift, TypeScript, C++ and more!
 - **[BitOS](https://github.com/datpengu/BitOS)** - An old attempt at making an OS in assembly
 - **[ByteX](https://github.com/datpengu/ByteX)** - A try at making my own programming language for fun!
 
-## Inline code
+## Notes
 
 This page was last updated at `23/8-2024`.
 
