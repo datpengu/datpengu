@@ -1,10 +1,3 @@
-Markdown Live Preview
-Reset
-Copy
-
--->
-
-
 Hiya 👋
 I'm datpengu, a hobby developer and designer from Sweden.
 I enjoy programming in Swift, TypeScript, C++ and more!
